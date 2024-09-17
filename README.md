@@ -8,6 +8,6 @@
 ![Kubernetes-Cheat-Sheet_1](https://github.com/user-attachments/assets/d56f1910-036d-4bc0-ac94-a5d31ada5538)
 
 # redis
-[RedisCheatSheet-ByGeekHour.pdf](https://github.com/user-attachments/files/17031570/RedisCheatSheet-ByGeekHour.pdf)
+![Uploading freecompress-RedisCheatSheet-ByGeekHour.jpg…]()
 
 # kafka
